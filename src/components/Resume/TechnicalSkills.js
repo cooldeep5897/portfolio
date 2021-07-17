@@ -5,7 +5,7 @@ export default class TechnicalSkills extends Component {
     return (
       <table className='ts-table  font'>
         <tr>
-          <td>Python &nbsp;</td>
+          <td>JAVA &nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -34,7 +34,22 @@ export default class TechnicalSkills extends Component {
               style={{ width: '86%' }}></div>
           </div>
         </tr>
-
+        <tr>
+          <td>NodeJs &nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <div class='progress'>
+              <div
+                class='progress-bar progress-bar-warning progress-bar-striped'
+                role='progressbar'
+                aria-valuenow='40'
+                aria-valuemin='0'
+                aria-valuemax='100'
+                style={{ width: '86%' }}></div>
+            </div>
+          </td>
+        </tr>
         <tr>
           {' '}
           <td>Data Structure-Algorithms &nbsp;</td>
@@ -51,7 +66,7 @@ export default class TechnicalSkills extends Component {
           </div>
         </tr>
         <tr>
-          <td>C++/Java &nbsp; </td>
+          <td>C/C++ &nbsp; </td>
         </tr>
         <tr>
           <div class='progress'>
@@ -113,22 +128,7 @@ export default class TechnicalSkills extends Component {
           </div>
         </tr>
 
-        <tr>
-          <td>Photoshop/Adobe Xd &nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <div class='progress'>
-              <div
-                class='progress-bar progress-bar-warning progress-bar-striped'
-                role='progressbar'
-                aria-valuenow='40'
-                aria-valuemin='0'
-                aria-valuemax='100'
-                style={{ width: '86%' }}></div>
-            </div>
-          </td>
-        </tr>
+        
       </table>
     );
   }

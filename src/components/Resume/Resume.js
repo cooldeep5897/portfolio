@@ -43,7 +43,7 @@ class Resume extends React.Component {
           </div>
           <div className=' col-lg-3 resb '>
             <i class='fa fa-whatsapp' aria-hidden='true'></i>
-            &nbsp;+91-8194997428
+            &nbsp;+91-8279554743
           </div>
         </div>
         <div style={{ marginTOp: '-400px' }} className='pullUp'>
@@ -67,9 +67,9 @@ class Resume extends React.Component {
                       {/* <!-- LOGOTYPE/NAME --> */}
                       <div class='header_logotype_container'>
                         <h1 class='logotype_name'>
-                          Mohit&nbsp;{' '}
+                        Kuldeep Joshi &nbsp;{' '}
                           <span class='purple' style={{ fontSize: '32px' }}>
-                            Singh{' '}
+                          {' '}
                           </span>
                         </h1>
                         <h2 class='logotype_occupation pl-1'>
@@ -87,7 +87,7 @@ class Resume extends React.Component {
                             <a class=' '>Full stack developer</a>
                           </li>
                           <li>
-                            <a>UI/UX designer</a>
+                            <a>Automation Tester</a>
                           </li>
                           <li>
                             <a>Creative thinker</a>
@@ -115,20 +115,17 @@ class Resume extends React.Component {
                       <div class='contact_details_content mb-4'>
                         {/* <h2>Contact details</h2> */}
                         <p class='purple'>Mobile No:</p>
-                        <p>+91-9008645536</p>
+                        <p>+91-8279554743</p>
                         <p class='purple'>Email:</p>
-                        <p>mohitsin3232@gmail.com</p>
+                        <p>Joshikuldeep5897@gmail.com</p>
                         <p class='purple mb-0'>Data of Birth:</p>
-                        <p>21 June 1998</p>
-                        {/* <p class='purple'>Adress:</p>
-                        <p>Sri durga pg for gents</p>
-                        <p>Koramangala I block , Bangaluru</p>
-                        <p>Karnataka , 560034</p> */}
+                        <p>05 August 1997</p>
                       </div>
                       <h2>Education</h2>
-                      <p class='purple'>Lovely Professional University</p>
-                      <p className='date'>B.Tech Cse &nbsp;(2016 - 2020)</p>
-                      <p className='date'>CGPA : &nbsp;9.23</p>
+                      <p class='purple'> Graphic Era Hill University</p>
+                      <p className='date'>B.Tech CSE &nbsp;(2016 - 2020)</p>
+                      <p class='purple'> Intermediate</p>
+                      <p className='date'> Kendriya Vidyalaya Haldwani Cantt</p>
                       <h2>Technical Skills</h2>
                       <TechnicalSkills />
                       <div class='get_social_content'>
@@ -136,33 +133,24 @@ class Resume extends React.Component {
                         <ul class='profiles_icons '>
                           <li>
                             <p class='purple mb-0'>Leetcode.com</p>
-                            <div>/mohit_11615192</div>
+                            
+                            <div>/kuldeep5897</div>
                           </li>
                           <li>
-                            <p class='purple mb-0'>Codechef.com</p>
-
-                            <div>/users/mohit_11615192</div>
+                            <p class='purple mb-0'>Github.com</p>
+                            <div>/cooldeep5897</div>
                           </li>
                           <li>
                             <p class='purple mb-0'>Hackerrank.com</p>
 
-                            <div>/mohitsin3232</div>
+                            <div>/rishab5897</div>
                           </li>
-                          {/* <li>
-                            <p class='purple '>Hackerearth.com</p>
-
-                            <div>/@mohit655</div>
-                          </li>
+                          
                           <li>
                             <p class='purple '>LinkedIn.com</p>
-
-                            <div>/in/mohit-singh-9819a3148</div>
-                          </li> */}
-                          <li>
-                            <p class='purple mb-0'>Github.com</p>
-
-                            <div>/mohitsinghnegi1</div>
-                          </li>
+                            <div>/in/kuldeep-joshi-20244413a/</div>
+                          </li> 
+                          
                         </ul>
                       </div>
                     </div>
@@ -174,7 +162,7 @@ class Resume extends React.Component {
                           <p>
                             " I am passionate programmer interested in
                             Competitive programming and Full stack development.
-                            Android app development and UI/UX designing are some
+                            Data Structure and Algorithms are some
                             other fields that interests me the most. I believe
                             in practical work rather than theoretical. "
                             <i
