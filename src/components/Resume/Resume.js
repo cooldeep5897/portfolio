@@ -3,7 +3,7 @@ import React from 'react';
 import { PDFExport } from '@progress/kendo-react-pdf';
 import './resume.scss';
 
-import profileimg from '../../img/mohit.jpg';
+import profileimg from '../../img/kuldeep2.jpg';
 import TechnicalSkills from './TechnicalSkills';
 class Resume extends React.Component {
   constructor(props) {
