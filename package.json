@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cooldeep5897.github.io/portfolio/",
+  "homepage": "https://cooldeep5897.github.io/portfolio/public",
   "dependencies": {
     "@progress/kendo-drawing": "^1.6.0",
     "@progress/kendo-react-pdf": "^3.11.0",
