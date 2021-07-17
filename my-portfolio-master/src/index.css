@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: poppins;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.progress-bar {
+  background-color: #48da9b !important;
+}

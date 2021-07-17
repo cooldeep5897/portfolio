@@ -1,0 +1,100 @@
+.ComparisonSlider {
+  width: 100%;
+  height: 100%;
+  color: #fff !important;
+  transition: 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  margin-left: 12px !important;
+  padding-left: 0px !important;
+  margin-right: 10px !important;
+  line-height: 1.5;
+}
+.ComparisonSlider *,
+table td {
+  color: #fff;
+  opacity: 1;
+  font-size: 0.97em;
+  letter-spacing: 0.035em;
+  word-spacing: 0.075em;
+  color: #e4ecee !important;
+  font-weight: 100 !important;
+}
+.fl-heading {
+  /* font-size: 40.001px; */
+  /* letter-spacing: -0.01em; */
+  color: #32c766 !important;
+  font-size: 2.769em;
+  line-height: 1.5;
+  font-weight: 700 !important;
+}
+.t-w {
+  color: #fff !important;
+  font-size: 0.778em;
+  text-transform: uppercase;
+}
+.about-me {
+  width: 92% !important;
+}
+.tc {
+  text-transform: uppercase;
+  color: #e4ecee !important;
+  font-weight: 600 !important;
+}
+.c-g {
+  color: #b7c9cc !important;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+.ComparisonSlider__Before,
+.ComparisonSlider__After {
+  background: #242b36 !important;
+}
+.progress {
+  width: 160px !important;
+  height: 10px;
+}
+.down-arrow {
+  font-size: 40px !important;
+}
+.fa-whatsapp {
+  font-size: 40px !important;
+  padding-right: 10px;
+  color: #00e676;
+}
+.fa-file-text-o {
+  font-size: 34px !important;
+  padding-right: 10px;
+}
+.overlay {
+  display: none;
+}
+@media only screen and (max-width: 1200px) {
+  * {
+    overflow: hidden;
+  }
+  .overlay {
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    color: teal;
+    padding-top: 200px;
+    position: fixed;
+    scroll-behavior: smooth;
+    /* overflow: hidden; */
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* height: 100vh; */
+    /* width: 100vw; */
+    z-index: 9999999;
+    background-color: lightblue;
+  }
+}
