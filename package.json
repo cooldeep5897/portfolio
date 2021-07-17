@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://cooldeep5897.github.io/portfolio/",
   "dependencies": {
     "@progress/kendo-drawing": "^1.6.0",
