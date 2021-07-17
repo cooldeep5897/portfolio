@@ -48,7 +48,7 @@ class MainBody extends React.Component {
           <footer>
             <i className='makeGreen pr-3'>Designed by</i>{' '}
             <i>
-              Mohit Singh Negi with &nbsp;
+              Kuldeep Joshi with &nbsp;
               <i class='fa fa-heart '></i>
             </i>
           </footer>

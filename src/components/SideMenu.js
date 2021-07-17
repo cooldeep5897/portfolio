@@ -39,10 +39,9 @@ class SideMenu extends React.Component {
               <ul className='sub-menu pr-5'>
                 <li>
                   <a href='#'>
-                    I am a Competitive coder and a Software developer with more
-                    than 1 years of experience in full stack developement using
-                    latest technologies like reactjs ,redux ,context api
-                    ,bootstrap ,python. I'm motivated, result-focused and
+                    I am a Software developer with more than 1 year of experience in industry and been practicing 
+                    full stack developement using
+                    latest technologies like reactjs,NodeJs and MongoDB. I'm motivated, result-focused and
                     seeking a successful team-oriented company with opportunity
                     to grow.{' '}
                   </a>
@@ -56,34 +55,18 @@ class SideMenu extends React.Component {
               </a>
               <ul className='sub-menu'>
                 <li>
-                  <a href='https://kiit.lsqportal.com/' target='_blank'>
-                    <i class='fa fa-link'></i>&nbsp;Kalinga Institute of
-                    Technology.
+                  <a href='https://spellchckr.herokuapp.com/' target='_blank'>
+                    <i class='fa fa-link'></i>&nbsp;Spell Checker
                   </a>
                 </li>
                 <li>
-                  <a href='http://lendingdemo1.lsqportal.com/' target='_blank'>
-                    <i class='fa fa-link'></i>&nbsp;LSQ Money
+                  <a href='https://hkernews.herokuapp.com/' target='_blank'>
+                    <i class='fa fa-link'></i>&nbsp;Hacker News
                   </a>
                 </li>
                 <li>
-                  <a href='http://lsqestates.lsqportal.com/' target='_blank'>
-                    <i class='fa fa-link'></i>&nbsp;LSQ Estates
-                  </a>
-                </li>
-                <li>
-                  <a href='https://edudemo4.lsqportal.com/' target='_blank'>
-                    <i class='fa fa-link'></i>&nbsp;LSQ University
-                  </a>
-                </li>
-                <li>
-                  <a href='https://edudemo2.lsqportal.com/' target='_blank'>
-                    <i class='fa fa-link'></i>&nbsp;Flame University
-                  </a>
-                </li>
-                <li>
-                  <a href='http://edudemo1.lsqportal.com/' target='_blank'>
-                    <i class='fa fa-link'></i>&nbsp;LSQ University
+                  <a href='https://github.com/cooldeep5897/nutrify-new/tree/main' target='_blank'>
+                    <i class='fa fa-link'></i>&nbsp;Nutrify App
                   </a>
                 </li>
               </ul>
@@ -95,7 +78,7 @@ class SideMenu extends React.Component {
               <ul className='sub-menu d-flex justify-content-between profiles w-75'>
                 <li>
                   <a
-                    href='https://www.hackerrank.com/mohitsin3232?hr_r=1'
+                    href='https://www.hackerrank.com/rishab5897'
                     target='_blank'>
                     <img
                       src={hackerrank}
@@ -104,27 +87,10 @@ class SideMenu extends React.Component {
                     />
                   </a>
                 </li>
+                
                 <li>
                   <a
-                    href='https://www.hackerearth.com/@mohit655'
-                    target='_blank'>
-                    <img
-                      src={hackerearth}
-                      style={{
-                        height: '46px',
-                        width: '46px',
-                        borderRadius: '50%',
-
-                        boxShadow:
-                          '0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)'
-                      }}
-                      alt='hackerrank'
-                    />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href='https://leetcode.com/mohit_11615192/'
+                    href='https://leetcode.com/kuldeep5897/'
                     target='_blank'>
                     <img
                       src={leetcode}
@@ -134,24 +100,7 @@ class SideMenu extends React.Component {
                   </a>
                 </li>
                 <li>
-                  <a
-                    href='https://www.codechef.com/users/mohit_11615192'
-                    target='_blank'>
-                    <img
-                      src={codechef}
-                      style={{
-                        height: '46px',
-                        background: '#fff',
-                        borderRadius: '50%',
-                        boxShadow:
-                          '0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)'
-                      }}
-                      alt='codechef'
-                    />
-                  </a>
-                </li>
-                <li>
-                  <a href='https://github.com/mohitsinghnegi1' target='_blank'>
+                  <a href='https://github.com/cooldeep5897' target='_blank'>
                     <img
                       src={github}
                       style={{
@@ -164,7 +113,7 @@ class SideMenu extends React.Component {
                 </li>
                 <li>
                   <a
-                    href='https://www.linkedin.com/in/mohit-singh-9819a3148/'
+                    href='https://www.linkedin.com/in/kuldeep-joshi-20244413a/'
                     target='_blank'>
                     <img
                       src={linkedin}

@@ -56,7 +56,7 @@ class Resume extends React.Component {
               paperSize='A4'
               scale={0.5}
               margin='0.07cm'
-              fileName='mohitsinghnegi'>
+              fileName='Kuldeeps Resume'>
               <div
                 id='main_container'
                 className=' mt-4    pl-5 pr-5  pt-4 container resume'>
@@ -179,84 +179,7 @@ class Resume extends React.Component {
                         </blockquote>
                       </div>
 
-                      <div class=' block mt-0'>
-                        <h2>Achievements</h2>
-                        <table className='experience gt'>
-                          <th></th>
-                          <th></th>
-                          <tr>
-                            <td>
-                              <div className='bold title1'>
-                                Leadsquared award
-                              </div>
-                              <div className='date'>June 2019 - Dec 2019</div>
-                            </td>
-                            <td>
-                              <div>
-                                <span className='bold title1'>
-                                  Star of the quarter award{' '}
-                                </span>
-                              </div>
-                              <div>
-                                Rewarded with Star of the quarter award for
-                                excellence ownership and accountability on 10+
-                                projects that I delivered during my internship.
-                              </div>
-                              <div>
-                                Grabbed an Internship opportunity at Leadsquared
-                                as a Software developer intern and also got a
-                                PPO offer from same company.{' '}
-                              </div>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div className='bold title1'>
-                                Pi-a-thon hackathon
-                              </div>
-                              <div className='date'>May 2018</div>
-                            </td>
-                            <td>
-                              <div>
-                                Secured <b>first position</b> in Pi-a-thon
-                                hackathon- Assisted and collaborated on project
-                                named as Crowd analysis.
-                                <br />
-                                Worked on technologies such as Python,
-                                Bootstrap, Php, Mysql.
-                              </div>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div className='bold title1'>
-                                Competitive programming
-                              </div>
-                              <div className='date'>Oct 2018 - Present</div>
-                            </td>
-                            <td>
-                              <div>
-                                Ranked top 1 among all student of my university
-                                in Stop stalk.
-                              </div>
-                              <div>
-                                Secured 289 rank in December challenge 2018 and
-                                161 rank in October challenge 2019 division 2 in
-                                Codechef.
-                              </div>
-                              <div>
-                                Solved over 1200 programming questions on
-                                various platform.
-                              </div>
-
-                              <div>
-                                4 star coder at Codechef. Participated in more
-                                then 40 hackathon.
-                              </div>
-                            </td>
-                          </tr>
-                        </table>
-                      </div>
+                      
                       <div class='horizontal_line'>
                         <div class='line_left'></div>
                         <div class='left_circle'></div>
@@ -272,42 +195,45 @@ class Resume extends React.Component {
                           <tr>
                             <td>
                               <div className='bold title1'>
-                                Software Engineer
+                                Automation Tester
                               </div>
-                              <div className='date'>June 2019 - Present</div>
+                              <div className='date'>August 2020 - Present</div>
                             </td>
                             <td>
                               <div className='bold title1'>
-                                Leadsquared - Marketxpenders
+                                Cognizant Technology Solutions
                               </div>
                               <div>
-                                Working as a Front-End Developer. Successfully
-                                delivered 10+ portals to clients such as
-                                DevBhoomi, ISBR, KIIT within strict deadline.
+                                Web Services API testing - In this we have to create
+                                test cases to test the APIs. These test cases will send
+                                appropriate JSONs and will verify the response
+                                accordingly.<br/>
+                                DataBase Testing - Automated the Database testing process for clients.
+                                Tasks included creating suites for reading FlatFiles to
+                                compare with database values.
                                 <br />
-                                <b>Technologies used</b> : React framework,
-                                Bootstrap Restful API and Leadsquared CRM.
+                                <b>Technologies used</b> :JAVA 8 SQL, Eclipse,Oracle SQL Developer,Katalon,Insomnia.
                               </div>
                             </td>
                           </tr>
                           <tr>
                             <td>
-                              <div className='bold title1'>UI Designer</div>
-                              <div className='date'>Jan 2019 - Mar 2019</div>
+                              <div className='bold title1'>Automation Testing Intern</div>
+                              <div className='date'>Jan 2020 - June 2020</div>
                             </td>
                             <td>
                               <div className='bold title1'>
-                                Redjee Software labs
+                                Cognizant Technology Solution
                               </div>
                               <div>
-                                Worked as a UI/UX Developer.combined the art of
-                                design with the art of programming.My
-                                Responsibilities include translation of the
-                                UI/UX design wireframes into actual reusable
-                                code
+                                Six-month internship at Cognizant Technology Solutions (13-Jan-2020 to 11-June-2020) 
+                                Worked on automation Testing. Successfully completed all the tasks, assignments including 
+                                a project based on automation testing using selenium and got 2nd rank in the internship
+                                among many interns. Learnt Java,Mysql, JavaScript,Selenium,etc.
+
+
                                 <br />
-                                <b>Tools used :</b> Html5, Css3,Jquery Photoshop
-                                and AdobeXD.
+                                <b>Tools used :</b> Java,Selenium,Eclipse,TestNG.
                               </div>
                             </td>
                           </tr>
@@ -328,74 +254,69 @@ class Resume extends React.Component {
                           <tr>
                             <td>
                               <div className='bold title1'>
-                                Dev Bhoomi Group of Institutions
+                              Spell Checker
                               </div>
-                              <div className='date'>Jan - 2020- March 2020</div>
-                            </td>
+                              </td>
                             <td>
                               <div>
                                 <span className='bold'>Production link - </span>
 
                                 <a
-                                  href='https://admission.dbgidoon.ac.in'
+                                  href='https://spellchckr.herokuapp.com/ '
                                   className='link'>
-                                  Admission.dbgidoon.ac.in
+                                  Spell Checker
                                 </a>
                               </div>
                               <div>
-                                CRM solution for educational university which
-                                allows student to enroll for various courses and
-                                view/search their application history through
-                                dashboard. Automated email will be send to the
-                                student/ admin based on activity. An automated
-                                offer letter gets generated after background
-                                verification.
+                              Spell Checker is a Vanilla JS app designed for making texts, notes, essays, etc spelling mistakes free.
+It makes an API call using axios to post Raw text and receive mistakes as response.
+The app will also give suggestions to correct the mistakes.By choosing a suggestion from the list of suggestions the spelling will get corrected in the text.
+
                               </div>
                             </td>
                           </tr>
                           <tr>
                             <td>
-                              <div className='bold title1'>Referral portal</div>
-                              <div className='date'>Nov - 2019 - Jan 2020</div>
+                              <div className='bold title1'>Nutrify App</div>
                             </td>
                             <td>
                               <div>
-                                <span className='bold'>Production link - </span>
+                                <span className='bold'>Github link - </span>
 
                                 <a
-                                  href='https://lsqestates.lsqportal.com'
+                                  href='https://github.com/cooldeep5897/nutrify-new/tree/main'
                                   className='link'>
-                                  Lsqestates.lsqportal.com
+                                  Link
                                 </a>
                               </div>
                               <div>
-                                Built an online platform from scratch to help
-                                double fold first to help agents refer leads to
-                                the organization secondly to help the
-                                organization to identify the lead source for
-                                rewards.
+                              The Nutrify App is a full stack application made using ReactJs for Frontend, Node JS for Backend and MongoDB as DataBase. It is used to keep a count on your calories and monitor calories consumed everyday.
+                              A user can SignUp and set total calories to be consumed in a day.
+                              A user can add all the meals and calories he consumes in a day.
+                              A user will be authenticated using Jwt Token.I have Implemented Cookie and Jwt token authentication.
                               </div>
                             </td>
                           </tr>
                           <tr>
                             <td>
-                              <div className='bold title1'>LSQ Money</div>
-                              <div className='date'>Oct 2019 - Nov 2019</div>
+                              <div className='bold title1'>Hacker News</div>
                             </td>
                             <td>
                               <div>
                                 <span className='bold'>Production link - </span>
 
                                 <a
-                                  href='https://lendingdemo1.lsqportal.com/'
+                                  href='https://hkernews.herokuapp.com/'
                                   className='link'>
-                                  Lendingdemo1.lsqportal.com
+                                  Hacker News
                                 </a>
                               </div>
                               <div>
-                                LSQ Money is an online platform which connects
-                                borrowers and lender for loan. Technologies
-                                used: Reactjs, Bootstrap, Restful API, CRM.
+                              The Hacker News is ReactJS application,I have implemented hooks,and stateless component in this app.
+                              Some of its Features- it displays the latest news uploaded on Hack News
+                               website using the firebase API’s provided. 
+                                  A user can select from a list of news links to navigate directly to the respective website.
+
                               </div>
                             </td>
                           </tr>
@@ -403,19 +324,27 @@ class Resume extends React.Component {
                           <tr>
                             <td>
                               <div className='bold title1'>
-                                External Sorting
+                              KnowWeather   
                               </div>
                               <div className='date'>
-                                March 2020 - March 2020
+                              
                               </div>
                             </td>
                             <td>
+                            <div>
+                                <span className='bold'>Production link - </span>
+
+                                <a
+                                  href='https://weatherkj.herokuapp.com/'
+                                  className='link'>
+                                  Weather App
+                                </a>
+                              </div>
                               <div>
-                                Implemented external sorting using python. This
-                                algorithm works even when the data (size may be
-                                in GBs) to be sorted does not fit into the RAM
-                                and instead they resides in the slower external
-                                memory.
+                              Created a Vanilla JavaScript App where i have implemented Call to API using axios to check the weather of any provided city using API :
+The user can enter the name of any city.  
+The user can see the temweatherkjperature of the city in Celsius and Fahrenheit.
+The background image changes dynamically according to the weather of the searched city.
                               </div>
                             </td>
                           </tr>
@@ -431,18 +360,7 @@ class Resume extends React.Component {
                 </div>
               </div>
             </PDFExport>
-            <div className='resume'>
-              <a
-                href='mailto:mohitsin3232@gmail.com'
-                class='send_message_button'>
-                <span class='cut1'></span>
-                <span class='cut2'></span>
-                <span class='content'>
-                  Send me a message{' '}
-                  <span class='fontawesome-double-angle-right'></span>
-                </span>
-              </a>
-            </div>
+            
           </div>
         </div>
       </div>
