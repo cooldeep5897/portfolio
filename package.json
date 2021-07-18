@@ -1,14 +1,15 @@
 {
-  "name": "my-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cooldeep5897.github.io/portfolio/",
   "dependencies": {
     "@progress/kendo-drawing": "^1.6.0",
     "@progress/kendo-react-pdf": "^3.11.0",
     "bootstrap": "^4.3.1",
     "comparison-slider": "^1.0.1",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "jquery": "^3.6.0",
     "node-sass": "^4.13.1",
     "react": "^16.4.0",
